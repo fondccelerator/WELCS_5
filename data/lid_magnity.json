@@ -1,0 +1,631 @@
+[
+  {
+    "co": "Winahost",
+    "name": "Калькулятор дохода провинции / оценка по адресу на гео-странице",
+    "type": "калькулятор дохода",
+    "offer": "«¿Cuánto puede generar tu vivienda en Begur?» → «Obtener estimación»; на странице калькулятора: «Estimación gratuita y personalizada en 2 minutos», кнопка «Ver mi estimación»",
+    "url": "https://winahost.com/gestion-alquiler-vacacional-begur → https://winahost.com/gestion-alquiler-vacacional/costa-brava/calculadora-alquiler-vacacional-costa-brava",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1612224206722757",
+      "https://www.facebook.com/ads/library/?id=974825151574921",
+      "https://www.facebook.com/ads/library/?id=1999859537550294"
+    ],
+    "ad_count": 5,
+    "gives": "Шаг 1: адрес*, спальни*, гости, санузлы, «¿Lista para alquilar?»*, «¿Licencia turística?»*. Шаг 2: имя*, email*, телефон*, согласие. Всего 10 полей; телефон обязателен; контакты на шаге 2 из 3",
+    "gets": "4 метрики по объекту: «Tarifa diaria media» (средняя цена ночи), «Ingresos anuales», «Ocupación anual», «Rentabilidad anual». До контактов на гео-странице видны средние по посёлку: ADR 281 €, загрузка 59%, «≈5 050 €/мес» с Winahost против «3 800 €/мес» при самостоятельном управлении (Бегур)",
+    "when": "На экране, шаг 3 — после ввода телефона (по описанию шагов; результат не просматривался, форма не отправлялась)",
+    "price_info": "На той же гео-странице: «10-20% sobre el importe neto de la reserva» (с нетто после уборки и комиссий площадок); FAQ: «Son estimaciones orientativas, no ingresos garantizados»",
+    "note": "Единственный калькулятор из шести компаний, рядом с которым стоит процент комиссии и пример «до / после». Сравнение 3 800 € / 5 050 € дано без методики. Персональная цифра — только после телефона",
+    "id": "WIN-1",
+    "ads_note": "Meta, 17.04–09.06.2026, «Descubre el potencial de tu piso turístico en Valencia / Madrid / Barcelona» («откройте потенциал вашей туристической квартиры»); ведут на гео-страницы городов с тем же виджетом. Слова «оценка» в тексте объявлений нет",
+    "link": "https://winahost.com/gestion-alquiler-vacacional/costa-brava/calculadora-alquiler-vacacional-costa-brava",
+    "links_extra": [
+      "https://winahost.com/gestion-alquiler-vacacional/costa-brava/begur",
+      "https://winahost.com/gestion-alquiler-vacacional/valencia/calculadora-alquiler-vacacional-valencia",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1612224206722757&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=974825151574921&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1999859537550294&media_type=all"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "Winahost AI Revenue Calculator",
+    "type": "калькулятор дохода",
+    "offer": "«Conoce tu potencial de ingresos antes de dar el primer paso» («узнайте потенциальный доход до первого шага»), кнопка «Analizar con IA»",
+    "url": "https://winahost.com/precios",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Адрес, санузлы, спальни, гости → «Analizar con IA» → email + телефон",
+    "gets": "Отчёт из 4 метрик: средняя цена ночи, годовой доход, загрузка, доходность",
+    "when": "После ввода email и телефона (по профилю 05.10.2026; результат не просматривался)",
+    "price_info": "На странице /precios: Premium Turístico 20%, Premium Temporal 16%, Online 11% «sobre el precio neto de la reserva»; «Solo cobramos por éxito… sin costes fijos»",
+    "note": "Приставка «AI» без описания модели. В прессе — запуск онлайн-калькулятора на MWC 02.2024 (que.es). Дублирует WIN-1 с другим набором полей",
+    "id": "WIN-2",
+    "ads_note": "Прямых объявлений не найдено",
+    "link": "https://winahost.com/precios#calculator",
+    "links_extra": [
+      "https://winahost.com/#calculator"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "Evaluación Gratuita de tu Propiedad",
+    "type": "бесплатная оценка объекта",
+    "offer": "«Evaluación Gratuita de tu Propiedad» · «Respuesta en 24h · 100% Gratuito · Sin compromiso»; кнопки «Solicitar Evaluación» и «Vía WhatsApp»",
+    "url": "https://winahost.com (Contacto)",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Адрес, спальни, санузлы, тип аренды, тип объекта (квартира, дом, студия, дуплекс, пентхаус; «виллы» нет) + имя*, email*, телефон*",
+    "gets": "Связь менеджера, оценка объекта, персональное предложение (FAQ: «contacta con nosotros, evaluamos tu propiedad, te enviamos una propuesta personalizada»)",
+    "when": "После звонка; срок ответа 24 ч",
+    "price_info": "Нет у формы",
+    "note": "Единственная форма с тремя снимающими риск обещаниями рядом с кнопкой (срок, бесплатно, без обязательств). Результат — только после разговора",
+    "id": "WIN-3",
+    "ads_note": "В тексте объявлений не упоминается. 30 из 42 объявлений Meta ведут на лид-форму внутри Facebook / Instagram («Gana en rentabilidad y tranquilidad con Winahost»), что внутри форм — не просматривалось",
+    "link": "https://winahost.com/",
+    "links_extra": [
+      "https://winahost.com/contacto"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "Observatorio — отчёты о рынке (4 тома)",
+    "type": "отчёт / контент без обмена на контакт",
+    "offer": "Тома 2026: «Ingresos potenciales del alquiler turístico por ciudad en España», рынки Барселоны, Мадрида (по районам) и Валенсии; кнопка «Leer el informe completo →»",
+    "url": "https://winahost.com/observatorio",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего: отчёты открыты, PDF нет",
+    "gets": "Средние по городам (напр. Пальма 49 500 €/год при загрузке 69,5%, Барселона 36 500 €, Валенсия 25 700 €) + методология",
+    "when": "Сразу на странице",
+    "price_info": "Нет; внизу отчёта — форма «Solicitar contacto» и кнопка «Valora tu vivienda»",
+    "note": "Рыночные цифры отдаются без контактов, персональная оценка — через форму в конце. Отчёта о Коста-Браве нет",
+    "id": "WIN-4",
+    "ads_note": "Объявлений не найдено",
+    "link": "https://winahost.com/observatorio",
+    "links_extra": [
+      "https://winahost.com/observatorio/ingresos-alquiler-turistico-ciudades-espana-2026",
+      "https://winahost.com/observatorio/mercado-alquiler-turistico-barcelona-2026",
+      "https://winahost.com/observatorio/mercado-alquiler-turistico-madrid-2026",
+      "https://winahost.com/observatorio/mercado-alquiler-turistico-valencia-2026"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "Калькулятор доходности отеля (B2B)",
+    "type": "калькулятор дохода (B2B)",
+    "offer": "«Descubre cuánto podrías facturar con tu Hotel Boutique. Prueba nuestra calculadora de rentabilidad.» / «Descubre cuánto más podría facturar tu hotel»",
+    "url": "https://winahost.com/b2b",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=680308991824969",
+      "https://www.facebook.com/ads/library/?id=794290713587146",
+      "https://www.facebook.com/ads/library/?id=27880308151647936"
+    ],
+    "ad_count": 4,
+    "gives": "На /b2b форма «Analizar mi activo»: имя, рабочий email, телефон",
+    "gets": "«nuestro equipo B2B analizará el activo» — анализ актива командой",
+    "when": "После контакта",
+    "price_info": "Нет",
+    "note": "Адресован владельцам отелей и зданий, частного собственника не касается. Отражает смещение рекламы Winahost к отелям с 01.10.2026",
+    "id": "WIN-5",
+    "ads_note": "Meta: 3 объявления 05.11–03.12.2025 ведут на /b2b, 1 объявление 01–05.10.2026 — лид-форма",
+    "link": "https://winahost.com/b2b",
+    "links_extra": [
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=680308991824969&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=794290713587146&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=27880308151647936&media_type=all"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "Бесплатная оценка отеля при продаже",
+    "type": "бесплатная оценка (продажа актива)",
+    "offer": "«¿Estás pensando en vender tu hotel? … En Winahost compramos hoteles para explotarlos nosotros. Valoración gratuita, total confidencialidad y una llamada en 48 h.»",
+    "url": "лид-форма Meta (fb.me)",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1330702273462470",
+      "https://www.facebook.com/ads/library/?id=1579651656746407"
+    ],
+    "ad_count": 2,
+    "gives": "Поля лид-формы не просматривались",
+    "gets": "Оценка отеля и звонок",
+    "when": "Звонок в течение 48 ч",
+    "price_info": "Нет",
+    "note": "Вне сегмента управления: продажа отеля. Включён, так как формат — бесплатная оценка в обмен на контакт",
+    "id": "WIN-6",
+    "ads_note": "Meta, 01–05.10.2026, лид-формы",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1330702273462470&media_type=all",
+    "links_extra": [
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1579651656746407&media_type=all"
+    ]
+  },
+  {
+    "co": "Winahost",
+    "name": "«Напиши слово в комментарии — пришлём описание услуги»",
+    "type": "материал в личные сообщения за комментарий",
+    "offer": "«Comenta Gestión Online y te enviamos cómo gestionamos tu propiedad.»",
+    "url": "пост / объявление в Meta",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1235993477963973"
+    ],
+    "ad_count": 1,
+    "gives": "Комментарий под постом (профиль в Instagram / Facebook)",
+    "gets": "Описание тарифа «Gestión online» в личных сообщениях",
+    "when": "После комментария, вручную или ботом",
+    "price_info": "Тариф Online — 11% с нетто (на /precios)",
+    "note": "Единственный пример механики «комментарий → личное сообщение» среди шести компаний; одно объявление на 6 дней",
+    "id": "WIN-7",
+    "ads_note": "Meta, 18–24.02.2026",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1235993477963973&media_type=all",
+    "links_extra": []
+  },
+  {
+    "co": "Weguest",
+    "name": "Калькулятор «Calculamos la rentabilidad de tu propiedad»",
+    "type": "калькулятор дохода",
+    "offer": "Кнопка в шапке «Calcular rentabilidad»; объявление «Gestión Pisos Turísticos - Calcula tu Rentabilidad»",
+    "url": "https://www.weguest.com (кнопка «Calcular rentabilidad»)",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR16182158348542541825?region=ES"
+    ],
+    "ad_count": 1,
+    "gives": "Шаг 1: индекс*, спальни 0–10*, гости 1–20*, «Calidad» Baja / Media / Alta*. Шаг 2 «¿Cómo podemos contactarte?»: имя*, код страны*, телефон*, email*, reCAPTCHA. 8 полей; телефон обязателен",
+    "gets": "Цифра не показывается; Weguest связывается и готовит «estudio personalizado»",
+    "when": "После звонка; срок ответа не указан",
+    "price_info": "У калькулятора нет. На тарифах: 16% / 20% + IVA + уборка; гео-страницы: «Los ingresos medios al mes en {ciudad} son de X€» (1 800–2 500 €)",
+    "note": "Название обещает расчёт, по факту — форма заявки: результат на экране не выдаётся. Средний доход по городу виден без контактов на гео-страницах",
+    "id": "WEG-1",
+    "ads_note": "Google (ES), 07.09.2023 – 02.02.2026, 879 дней",
+    "link": "https://www.weguest.com/",
+    "links_extra": [
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR16182158348542541825?region=ES"
+    ]
+  },
+  {
+    "co": "Weguest",
+    "name": "«¡Pruébalo gratis!» — старт без оплаты",
+    "type": "бесплатный старт / пробный период",
+    "offer": "«Check-in/out, Limpieza, Gestión del Huéspedes, Mantenimiento y Limpieza. ¡Pruébalo Gratis!»; Help Center: «puedes comenzar a anunciar tu propiedad sin coste alguno, y cancelar … en el momento que quieras»",
+    "url": "https://www.weguest.com, https://help.weguest.com",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR08334519965012983809?region=ES",
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR07842713430430580737?region=ES"
+    ],
+    "ad_count": 2,
+    "gives": "Регистрация в кабинете, электронный договор, привязка карты, смена почты аккаунта Airbnb на «Email de integración» Weguest",
+    "gets": "Старт размещения без вступительного платежа; «Revisión inicial gratuita», «Apertura electrónica gratuita»",
+    "when": "После подписания договора",
+    "price_info": "Договор: «Puesta a punto» 240 € + IVA (бесплатно только при годовом сроке); выход — уведомление ≥31 день, 59 € + IVA, комиссия по броням, полученным до выхода",
+    "note": "«Бесплатно» относится к старту, комиссия 16–20% + IVA начисляется с первых броней. Обещание «cancelar en el momento que quieras» расходится с 31 днём и 59 € в договоре",
+    "id": "WEG-2",
+    "ads_note": "Google (ES): 25.10.2021 – 02.02.2026 (1 561 день) и 29.09.2022 – 01.02.2026",
+    "link": "https://help.weguest.com/qu%C3%A9-incluye-el-paquete-de-gesti%C3%B3n-completa-de-weguest",
+    "links_extra": [
+      "https://help.weguest.com/por-qu%C3%A9-elegir-weguest",
+      "https://help.weguest.com/servicios-adicionales-que-ofrece-weguest",
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR08334519965012983809?region=ES",
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR07842713430430580737?region=ES"
+    ]
+  },
+  {
+    "co": "Weguest",
+    "name": "Бесплатное исследование доходности",
+    "type": "бесплатная оценка объекта",
+    "offer": "«Podemos realizar de forma gratuita estudios de rentabilidad»",
+    "url": "https://help.weguest.com",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Та же форма, что у WEG-1 (8 полей, телефон)",
+    "gets": "«estudio personalizado»",
+    "when": "После звонка",
+    "price_info": "Нет",
+    "note": "Упомянуто только в Help Center; на главной формулировки «gratuito» нет",
+    "id": "WEG-3",
+    "ads_note": "Объявлений не найдено",
+    "link": "https://help.weguest.com/servicios-adicionales-que-ofrece-weguest",
+    "links_extra": []
+  },
+  {
+    "co": "Weguest",
+    "name": "Бесплатный анализ для отелей",
+    "type": "бесплатный аудит (B2B)",
+    "offer": "«Weguest para Hoteles. +5.000 profesionales hosteleros confían en nosotros. Solicita tu análisis gratuito hoy.»",
+    "url": "https://www.weguest.com (go.weguest.com — встречи для отелей)",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR07154501623404822529?region=ES",
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR14149233959501824001?region=ES"
+    ],
+    "ad_count": 2,
+    "gives": "Запись на встречу (go.weguest.com), поля не просматривались",
+    "gets": "Анализ канала продаж отеля",
+    "when": "На встрече",
+    "price_info": "Нет",
+    "note": "Адресован отелям. После 02.2026 у Weguest нет активных объявлений с магнитом для частных собственников",
+    "id": "WEG-4",
+    "ads_note": "Google (ES), 18.06 – 06.07.2026; вне основного набора объявлений для собственников",
+    "link": "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR07154501623404822529?region=ES",
+    "links_extra": [
+      "https://www.weguest.com/hoteles",
+      "https://adstransparency.google.com/advertiser/AR04265834361032540161/creative/CR14149233959501824001?region=ES"
+    ]
+  },
+  {
+    "co": "GuestReady",
+    "name": "Калькулятор дохода + PDF-отчёт с предложением на почту («Estimación gratuita»)",
+    "type": "калькулятор дохода / PDF-отчёт",
+    "offer": "«Estimación gratuita y sin compromiso. Descubre cuánto puedes ganar»; кнопки «Obtener Estimación», «Calcular Ingresos»; у формы: «Le enviaremos un informe de ingresos preciso, con un presupuesto del servicio por correo electrónico»",
+    "url": "https://calculator.guestready.com/es (вход: виджет «Soy propietario» на guestready.com/es/, /es/gestion-alquiler-turistico/, /es/tarifas/)",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR14145241014306078721?region=ES",
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR02062364757767225345?region=ES",
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR02902458711597383681?region=ES"
+    ],
+    "ad_count": 71,
+    "gives": "Шаг 1: адрес (Google Places), спальни, максимум гостей, месяцы сдачи, «¿Eres el dueño?». Шаг 2: имя*, фамилия*, email*, телефон* (код по умолчанию UK), «¿Cómo has conocido a GuestReady?»* (11 вариантов, первый — «Herramientas de IA»), согласие*. 11 полей; телефон обязателен; контакты на шаге 2 из 3",
+    "gets": "«Informe de ingresos preciso» с «presupuesto del servicio» — PDF-отчёт о доходе и коммерческое предложение",
+    "when": "По email после отправки; цифра на экране до контактов не показывается",
+    "price_info": "Отчёт включает «presupuesto del servicio» (персональная ставка). Публично: /es/tarifas — «desde el 18% de tus ingresos» (07.10.2026; ранее на хабах «desde el 12%»), виджет города 12% или 20%; «las nuevas propiedades están sujetas a una tasa de incorporación», которая вычитается из дохода первого месяца",
+    "note": "Самый массовый магнит в выборке. Персональная ставка выдаётся только в отчёте. На Trustpilot собственник из Порту описывает иск ≈14 000 € из-за расхождения прогноза (≈90 €/ночь) с фактом — прогноз не является обязательством. Адрес вне зоны обслуживания (Бегур) принимается без проверки",
+    "id": "GR-1",
+    "ads_note": "71 объявление: Google, регион ES — 11 (8 на испанском: Costa del Sol, Gran Canaria, Sevilla, Madrid, Cádiz, Barcelona; самое долгое — Sevilla 21.02–27.07.2026), Google, другие рынки — 25 (PT «Estimativa gratuita», FR «Calculez vos revenus» / «Devis gratuit», EN «Calculate your Income Now»; FR-объявления идут с 17.08.2022), Meta UK — 35 (те же объявления, что с кешбэком: «Curious how much your property could make? Submit your details today»)",
+    "link": "https://calculator.guestready.com/es",
+    "links_extra": [
+      "https://www.guestready.com/es/",
+      "https://www.guestready.com/es/tarifas/",
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR14145241014306078721?region=ES",
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR02062364757767225345?region=ES",
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR02902458711597383681?region=ES"
+    ]
+  },
+  {
+    "co": "GuestReady",
+    "name": "Форма «Obtener una estimación» / «Get a quote»",
+    "type": "бесплатная оценка + консультация",
+    "offer": "«Calcula el potencial de tu propiedad» · «Solo te llevará un minuto y el formulario no es vinculante»; EN: «Get Started: List your property in 3 steps»",
+    "url": "https://www.guestready.com/es/obtener-una-estimacion/ ; https://www.guestready.com/get-a-quote/",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Адрес, спальни; на шаге 2 — контакты",
+    "gets": "«Te pondremos en contacto con nuestro experto GuestReady» — персональное предложение от местного менеджера",
+    "when": "После звонка",
+    "price_info": "Нет",
+    "note": "Вход в тот же процесс, что GR-1; результат обещан через разговор с экспертом, отчёт по почте здесь не упомянут",
+    "id": "GR-2",
+    "ads_note": "Отдельных объявлений нет; 30 ссылок в объявлениях Meta ведут на /get-a-quote/ (учтены в GR-1 и GR-3)",
+    "link": "https://www.guestready.com/es/obtener-una-estimacion/",
+    "links_extra": [
+      "https://www.guestready.com/get-a-quote/"
+    ]
+  },
+  {
+    "co": "GuestReady",
+    "name": "Кешбэк £500 при подписании в октябре (Великобритания)",
+    "type": "кешбэк / бонус",
+    "offer": "«Thinking of short-letting your property? With GuestReady, you don’t just earn more, you also get £500 cashback when you sign up this October.»",
+    "url": "лид-форма Meta → guestready.com / get-a-quote",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1363661012069258",
+      "https://www.facebook.com/ads/library/?id=2889081047951433",
+      "https://www.facebook.com/ads/library/?id=1837759600513010"
+    ],
+    "ad_count": 35,
+    "gives": "Лид-форма Meta (поля не просматривались) + подписание договора",
+    "gets": "£500 после подписания договора; условия выплаты публично не найдены",
+    "when": "После подписания договора",
+    "price_info": "Ставка не названа; UK-ставки на сайте 12–15%",
+    "note": "Акция со сроком (один месяц). В Испании не показывалась. Условия начисления (срок договора, возврат при выходе) не опубликованы",
+    "id": "GR-3",
+    "ads_note": "Meta, Великобритания, 06–31.10.2025; кнопка «Sign up»; все — лид-формы",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1363661012069258&media_type=all",
+    "links_extra": [
+      "https://www.guestready.com/get-a-quote/",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=2889081047951433&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1837759600513010&media_type=all"
+    ]
+  },
+  {
+    "co": "GuestReady",
+    "name": "0% комиссии управления два месяца (Португалия)",
+    "type": "первые месяцы 0%",
+    "offer": "«Comece com a GuestReady este novembro e pague 0% de comissão de gestão nos primeiros dois meses. Uma propriedade por proprietário. Aplicam-se Termos e Condições.»",
+    "url": "лид-форма Meta → guestready.com",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1813672816183942",
+      "https://www.facebook.com/ads/library/?id=4259556544301721",
+      "https://www.facebook.com/ads/library/?id=1154958486254637"
+    ],
+    "ad_count": 5,
+    "gives": "Лид-форма + договор",
+    "gets": "Два месяца без комиссии управления, один объект на собственника",
+    "when": "После подписания договора",
+    "price_info": "Португалия: 10–20% на сайте. Ноябрь–декабрь — низкий сезон, поэтому выгода ограничена доходом этих месяцев",
+    "note": "Акция со сроком и ограничением «один объект». Условия «Termos e Condições» публично не найдены",
+    "id": "GR-4",
+    "ads_note": "Meta, Португалия, 10–27.11.2025, охват ≈74 тыс.",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1813672816183942&media_type=all",
+    "links_extra": [
+      "https://www.guestready.com/pt/",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=4259556544301721&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1154958486254637&media_type=all"
+    ]
+  },
+  {
+    "co": "GuestReady",
+    "name": "«Experimente grátis» (Португалия)",
+    "type": "бесплатный пробный период",
+    "offer": "«Gestão de propriedades em arrendamento de curta duração. Experimente grátis.»",
+    "url": "https://www.guestready.com/",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR12573607752217133057?region=ES"
+    ],
+    "ad_count": 1,
+    "gives": "Не установлено",
+    "gets": "Не установлено: на сайте пробного периода не найдено",
+    "when": "—",
+    "price_info": "—",
+    "note": "Обещание в объявлении без страницы, которая его раскрывает",
+    "id": "GR-5",
+    "ads_note": "Google, Португалия, 22.12.2024 – 28.06.2026",
+    "link": "https://adstransparency.google.com/advertiser/AR06185153472069894145/creative/CR12573607752217133057?region=ES",
+    "links_extra": [
+      "https://www.guestready.com/pt/"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "«Estimation rapide et gratuite» / «Scopri quanto puoi guadagnare» → форма myhome и «presupuesto sin compromiso»",
+    "type": "бесплатная оценка дохода (через менеджера)",
+    "offer": "FR: «Estimation rapide et gratuite», «Estimation de revenue rapide»; IT: «Affitta la tua seconda casa. Scopri quanto puoi guadagnare»; ES (буклет, стр. 22): «No esperes más y solicita hoy mismo un presupuesto sin compromiso»; форма myhome: «Deje que nuestros expertos en alquileres vacacionales se pongan en contacto con usted»",
+    "url": "https://www.interhome.group/es-es/myhome ; FR-гео-страницы /fr-fr/myhome/destinations/…-conciergerie (в т. ч. Salou)",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR10843177652135657473/creative/CR03602752167137509377?region=ES",
+      "https://www.facebook.com/ads/library/?id=1409584007152126",
+      "https://adlibrary.ads.microsoft.com/ad/72980559168412"
+    ],
+    "ad_count": 12,
+    "gives": "Шаг 1: страна, индекс, населённый пункт, тип (Casa / Apartamento / Otro), статус («Soy el propietario / Tengo previsto ser pronto el propietario / Represento a una agencia…»). Шаг 2: обращение, имя, фамилия, email, мобильный (+34), согласие на передачу данных «HHD AG y otras empresas del HomeToGo Group». 11 полей",
+    "gets": "Оценку делает менеджер после звонка и выезда (4 шага: «Revisión y evaluación», «Visita in situ», …)",
+    "when": "После звонка и визита; срок не указан",
+    "price_info": "Комиссия не опубликована; в отзывах собственников ≈20–25%. atraveo (та же группа): 19,5%",
+    "note": "«Rapide» в объявлении не подкреплено сроком у формы; калькулятора нет. Согласие разрешает передачу данных другим компаниям группы HomeToGo",
+    "id": "IH-1",
+    "ads_note": "Google FR 2 (11.12.2025 – 26.08.2026, 258 дней), Meta IT 4 (09.05 – 20.11.2025), Bing FR 6 (05–08.2026; одно ведёт на страницу Salou — объект в Испании для франкоязычного владельца). В испаноязычных объявлениях слова «estimación / gratis» нет: «Rentabilice su inversión», «¡Pregunte aquí!»",
+    "link": "https://www.interhome.group/es-es/myhome#contact-form",
+    "links_extra": [
+      "https://www.interhome.group/es-es/myhome/contact",
+      "https://www.interhome.group/fr-fr/myhome/destinations/salou-conciergerie",
+      "https://adstransparency.google.com/advertiser/AR10843177652135657473/creative/CR03602752167137509377?region=ES",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1409584007152126&media_type=all",
+      "https://adlibrary.ads.microsoft.com/ad/72980559168412"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "PDF-буклет для собственников (21 стр.)",
+    "type": "буклет PDF",
+    "offer": "«Maximice el potencial de su alquiler vacacional. Soporte profesional, soluciones a tu medida.»; финал: «solicita hoy mismo un presupuesto sin compromiso»",
+    "url": "https://www.interhome.group/upload/31481/Purchasing_Brochure_2026_A5_ES.pdf (кнопка «Download» на странице myhome)",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего: скачивание без формы",
+    "gets": "Услуги, каналы (Airbnb, Booking.com, Google, HomeToGo, Vrbo), портал собственника, 4 вида страховки, программа лояльности (20% скидка на отдых, обмен неделями, аванс на ремонт, +10% с брони по личной ссылке, реферальная программа), 3 отзыва собственников (Sainte-Maxime, Calonge, Costa Paradiso), «70 000 alojamientos · 30 000 propietarios · 200+ destinos»",
+    "when": "Сразу",
+    "price_info": "Цен и процента нет",
+    "note": "Самый полный печатный материал в выборке; без цен и без цифр дохода. Сбор контактов не встроен — только email myhome.es@interhome.group в конце",
+    "id": "IH-2",
+    "ads_note": "Объявлений не найдено",
+    "link": "https://www.interhome.group/upload/31481/Purchasing_Brochure_2026_A5_ES.pdf",
+    "links_extra": [
+      "https://www.interhome.group/es-es/myhome"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "PDF «Resumen del seguro Interhome»",
+    "type": "PDF-гайд (страховка)",
+    "offer": "«Protección exhaustiva para propietarios y huéspedes vacacionales, incluida en cada alquiler de Interhome»",
+    "url": "https://www.interhome.group/upload/29787/Insurance-Services_A4_2026_ES.pdf",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего",
+    "gets": "Страховщики (ERV / Helvetia, AXA), лимиты: ущерб 3 000 CHF на бронь / 20 000 CHF на объект в год без франшизы; неплатёжеспособность до 45 млн CHF",
+    "when": "Сразу",
+    "price_info": "«incluida» — без доплаты",
+    "note": "Единственный документ в выборке с лимитами страховки и названиями страховщиков",
+    "id": "IH-3",
+    "ads_note": "Объявлений с PDF нет; страховка в объявлениях — см. IH-5",
+    "link": "https://www.interhome.group/upload/29787/Insurance-Services_A4_2026_ES.pdf",
+    "links_extra": [
+      "https://www.interhome.group/es-es/articles/seguros-viviendas-vacacionales"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "15 статей и чек-листов для собственника",
+    "type": "чек-листы / гайды (открытые)",
+    "offer": "«Checklist: Cómo alquilar mi casa vacacional», «Lista de verificación: amueblar un apartamento vacacional», «Cómo fijar el precio…», «Errores que los propietarios… deben evitar», «Normativas de seguridad en piscinas…» и др.",
+    "url": "https://www.interhome.group/es-es/myhome (блок внизу), напр. /es-es/articles/checklist-alquilar-vacacional",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего",
+    "gets": "Статьи на странице",
+    "when": "Сразу",
+    "price_info": "Нет",
+    "note": "Статьи без дат и авторов, вне sitemap. Чек-листы не требуют email",
+    "id": "IH-4",
+    "ads_note": "Объявлений не найдено",
+    "link": "https://www.interhome.group/es-es/articles/checklist-alquilar-vacacional",
+    "links_extra": [
+      "https://www.interhome.group/es-es/myhome",
+      "https://www.interhome.group/es-es/articles/amueblar-casas-y-apartamentos-de-vacaciones",
+      "https://www.interhome.group/es-es/articles/fijar-precio-alquiler-vacacional",
+      "https://www.interhome.group/es-es/articles/errores-viviendas-vacacionales",
+      "https://www.interhome.group/es-es/articles/normativa-piscina",
+      "https://www.interhome.group/es-es/articles/contrato-alquiler-vacacional",
+      "https://www.interhome.group/es-es/articles/precios-dinamicos-vacacionales",
+      "https://www.interhome.group/es-es/articles/seguros-viviendas-vacacionales",
+      "https://www.interhome.group/es-es/articles/mantenimiento-vivienda-vacacional-limpieza",
+      "https://www.interhome.group/es-es/articles/gestion-alquileres-vacacionales",
+      "https://www.interhome.group/es-es/articles/beneficios-de-alquilar-una-vivienda-vacacional",
+      "https://www.interhome.group/es-es/articles/alquiler-corto-plazo-largo-plazo",
+      "https://www.interhome.group/es-es/articles/uso-personal-vacacional",
+      "https://www.interhome.group/es-es/articles/casa-vacaciones-workation",
+      "https://www.interhome.group/es-es/articles/casa-vacacional-cargador-coche-electrico"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "Страховка включена в услугу (стимул в рекламе)",
+    "type": "бонус в составе услуги",
+    "offer": "ES Meta: «…un seguro incluido»; EN Google: «24/7 Customer Service - Free rental insurance provided»",
+    "url": "https://www.interhome.group/es-es/myhome",
+    "ad_links": [
+      "https://adstransparency.google.com/advertiser/AR10843177652135657473/creative/CR11960594981388812289?region=ES",
+      "https://www.facebook.com/ads/library/?id=619776757541177",
+      "https://www.facebook.com/ads/library/?id=1330470948192212"
+    ],
+    "ad_count": 24,
+    "gives": "Подключение к Interhome",
+    "gets": "Страховой пакет (см. IH-3)",
+    "when": "С началом сдачи",
+    "price_info": "Без доплаты по тексту; сумма покрытия в объявлениях не названа",
+    "note": "Используется как аргумент в тексте объявления, обмена на контакт нет. Учтён, потому что формат «бесплатное в подарок» стоит в тексте объявления",
+    "id": "IH-5",
+    "ads_note": "Meta 23 (03.2025 – 10.2026), Google 1 (29.07.2024 – 08.08.2026, 740 дней)",
+    "link": "https://adstransparency.google.com/advertiser/AR10843177652135657473/creative/CR11960594981388812289?region=ES",
+    "links_extra": [
+      "https://www.interhome.group/es-es/myhome",
+      "https://www.interhome.group/upload/29787/Insurance-Services_A4_2026_ES.pdf",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=619776757541177&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1330470948192212&media_type=all"
+    ]
+  },
+  {
+    "co": "Interhome",
+    "name": "atraveo: «5 consejos de expertos para conseguir más reservas»",
+    "type": "гайд (открытый)",
+    "offer": "«Siga estas 5 reglas de oro y conseguirá más invitados para su alojamiento de vacaciones»",
+    "url": "https://www.atraveo.com/es/5-consejos-de-oro-para-m%C3%A1s-reservas",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего",
+    "gets": "Советы для владельца, сдающего самостоятельно",
+    "when": "Сразу",
+    "price_info": "atraveo: «0 € de costes fijos… recibimos un 19,5 %»",
+    "note": "Магнит сервиса самообслуживания группы (atraveo), портал Interhome «¿Nuevo aquí? Regístrese» ведёт туда же",
+    "id": "IH-6",
+    "ads_note": "Объявлений не найдено",
+    "link": "https://guide.atraveo.com/es/5-consejos-de-oro-para-m%C3%A1s-reservas",
+    "links_extra": []
+  },
+  {
+    "co": "AGI Management",
+    "name": "Опция «Valorar mi piso» в форме Agiproperties",
+    "type": "оценка для продажи",
+    "offer": "Форма «Solicitar información»: «Comprar / Alquilar / Valorar mi piso»",
+    "url": "https://www.agi-properties.com/es/",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Тип объекта, контакты",
+    "gets": "Оценка для продажи (значение поля — «Vender»)",
+    "when": "После контакта",
+    "price_info": "Нет",
+    "note": "Лид-магнита для собственника под управление на immogestio.com, costagirona.com, agi-properties.com не найдено (07.10.2026): нет оценки дохода, PDF, гайдов. Общая форма immogestio — 9 необязательных полей",
+    "id": "AGI-1",
+    "ads_note": "Рекламы AGI в Meta и Google нет",
+    "link": "https://www.agi-properties.com/es/home/",
+    "links_extra": []
+  },
+  {
+    "co": "WELCS",
+    "name": "«Estudio de rentabilidad gratuito» / «Free Revenue Forecast» / «Prévision de revenus gratuite» / «Бесплатный расчёт доходности»",
+    "type": "бесплатная оценка дохода",
+    "offer": "«Estudio de rentabilidad gratuito» — заголовок объявлений на ES / EN / FR / RU",
+    "url": "лид-форма Meta; welcs.com/es/ и /en/ с UTM «leads-spain-cold»",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=4222553728004143",
+      "https://www.facebook.com/ads/library/?id=3731666980307935",
+      "https://www.facebook.com/ads/library/?id=1274504001523175"
+    ],
+    "ad_count": 5,
+    "gives": "Лид-форма Meta (по разбору объявлений: лицензия, контакты); поля не открывались",
+    "gets": "Расчёт доходности — после связи",
+    "when": "После звонка; срок не назван",
+    "price_info": "В объявлениях нет; на сайте 10 / 15 / 20 / 12,5% + 10–15 €/мес",
+    "note": "Тот же формат, что у конкурентов, на четырёх языках; кампания длилась около двух недель",
+    "id": "WELCS-1",
+    "ads_note": "Meta, 18.02 – 02.03.2026 (7–12 дней каждое); 4 из 5 — лид-формы; ES 2, EN 1, FR 1, RU 1",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=4222553728004143&media_type=all",
+    "links_extra": [
+      "https://www.welcs.com/es/",
+      "https://www.welcs.com/en/",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=3731666980307935&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1274504001523175&media_type=all"
+    ]
+  },
+  {
+    "co": "WELCS",
+    "name": "«Solicite una auditoría gratuita»",
+    "type": "бесплатный аудит",
+    "offer": "«Coordinamos reservas, atención al huésped, limpieza y mantenimiento con procesos claros y seguimiento real. Solicite una auditoría gratuita y conozca cómo funciona el servicio.»",
+    "url": "лид-форма Meta",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=1604360580647987"
+    ],
+    "ad_count": 1,
+    "gives": "Лид-форма Meta",
+    "gets": "Не раскрыто, что входит в аудит",
+    "when": "После связи",
+    "price_info": "Нет",
+    "note": "Самое долгое объявление WELCS с магнитом; содержание аудита нигде не описано",
+    "id": "WELCS-2",
+    "ads_note": "Meta, видео, 29.04 – 29.09.2026 (153 дня), кнопка «Get offer», охват 5 373",
+    "link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=1604360580647987&media_type=all",
+    "links_extra": []
+  },
+  {
+    "co": "WELCS",
+    "name": "Лендинг «Valoraremos tu propiedad / Estudio de propiedad» и /lead-form/",
+    "type": "бесплатная оценка объекта",
+    "offer": "«Valoraremos tu propiedad — Estudio de propiedad»; /lead-form/: «¿Te gustaría saber cuánto podría valer tu propiedad? Rellena el formulario y obtén una valoración gratuita de tu propiedad»",
+    "url": "https://www.welcs.com/es/mt-landing-propietarios/ ; https://www.welcs.com/es/lead-form/",
+    "ad_links": [
+      "https://www.facebook.com/ads/library/?id=777515364652953",
+      "https://www.facebook.com/ads/library/?id=746192601865698"
+    ],
+    "ad_count": 9,
+    "gives": "Ubicación*, Capacidad*, Habitaciones*, Última reforma*, бассейн / сад / терраса + Nombre*, Apellidos*, Email*, Teléfono*, Localidad*, Idioma*, согласие. 13 полей на одном экране; телефон обязателен",
+    "gets": "Связь менеджера; на /gestion-propiedad/: до старта — «informe de rentabilidad y una simulación de facturación anual»",
+    "when": "После звонка; «en breve», срок не назван",
+    "price_info": "На лендинге тарифы Welcome 10% / Digital 15% / Solutions 20% / B2B 12,5% + 10–15 €/мес; база процента и IVA не указаны",
+    "note": "Текст благодарности показан над пустой формой до отправки; кнопка «Enviar». Цифра дохода до контактов не показывается",
+    "id": "WELCS-3",
+    "ads_note": "9 объявлений Meta ведут на /mt-landing-propietarios/ (Escríbenos para más detalles, Llene el formulario, 12.2025 – 05.2026); слова «оценка» в их тексте нет",
+    "link": "https://www.welcs.com/es/mt-landing-propietarios/",
+    "links_extra": [
+      "https://www.welcs.com/es/lead-form/",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=777515364652953&media_type=all",
+      "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&id=746192601865698&media_type=all"
+    ]
+  },
+  {
+    "co": "WELCS",
+    "name": "PDF-презентация «Más detalles»",
+    "type": "PDF-презентация (открытая)",
+    "offer": "Кнопка «Más detalles» на лендинге",
+    "url": "Google Drive («WELCS - Presentacion OFFLINE ESP.pdf»), ссылка с /es/mt-landing-propietarios/",
+    "ad_links": [],
+    "ad_count": 0,
+    "gives": "Ничего",
+    "gets": "Тарифы, услуги, «Seguro daños 20.000 €»",
+    "when": "Сразу",
+    "price_info": "Расходится с сайтом: Welcome 8% (сайт 10%), Digital 10 €/мес (сайт 15 €), B2B 10 €/мес (сайт 12,5 €)",
+    "note": "Открытый материал с ценами, как у Interhome без форм; цифры не совпадают с лендингом",
+    "id": "WELCS-4",
+    "ads_note": "Объявлений нет",
+    "link": "https://drive.google.com/file/d/1fVX34B6U4qkEeiyeBBHa7QY5x2g-9Nww/view",
+    "links_extra": [
+      "https://www.welcs.com/es/mt-landing-propietarios/"
+    ]
+  }
+]

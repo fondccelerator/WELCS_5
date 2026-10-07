@@ -1,0 +1,239 @@
+{
+ "_meta": {
+  "source": "SimilarWeb Pro, Marketing channels + Referral + Social + Display Advertiser overview",
+  "period": "Jul-Sep 2026 (3m)",
+  "geo": "Worldwide (999)",
+  "webSource": "Total (desktop+mobile web)",
+  "collected": "2026-10-07",
+  "units": "share of visits, %"
+ },
+ "winahost.com": {
+  "visits_3m": "2.8K",
+  "channels": {
+   "Direct": 40.99,
+   "Organic Search": 31.43,
+   "Paid Search": 2.89,
+   "Referrals": 11.67,
+   "Display Ads": 3.79,
+   "Organic Social": 2.51,
+   "Paid Social": 0.63,
+   "Gen AI": 1.5,
+   "Email": 3.9,
+   "Affiliates": 0.69
+  },
+  "sum": 100.0,
+  "social_top": [],
+  "referrals_top": [
+   [
+    "(unattributed Referral)",
+    90.93
+   ],
+   [
+    "revolut3.lightning.force.com",
+    9.07
+   ]
+  ],
+  "note": "Social: no network breakdown (no data); Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ },
+ "weguest.com": {
+  "visits_3m": "21K",
+  "channels": {
+   "Direct": 20.67,
+   "Organic Search": 42.97,
+   "Paid Search": 6.53,
+   "Referrals": 9.78,
+   "Display Ads": 5.39,
+   "Organic Social": 3.06,
+   "Paid Social": 1.33,
+   "Gen AI": 2.29,
+   "Email": 4.42,
+   "Affiliates": 3.56
+  },
+  "sum": 100.0,
+  "social_top": [],
+  "referrals_top": [],
+  "note": "Social: no network breakdown (no data); Referrals: only unattributed 'Referral' bucket 100%, no named domains; Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ },
+ "guestready.com": {
+  "visits_3m": "498.7K",
+  "channels": {
+   "Direct": 37.09,
+   "Organic Search": 31.88,
+   "Paid Search": 7.37,
+   "Referrals": 7.29,
+   "Display Ads": 2.5,
+   "Organic Social": 4.76,
+   "Paid Social": 0.43,
+   "Gen AI": 2.39,
+   "Email": 6.3,
+   "Affiliates": 0.0
+  },
+  "sum": 100.01,
+  "social_top": [
+   [
+    "(unattributed Social)",
+    88.46
+   ],
+   [
+    "linkedin.com",
+    10.6
+   ],
+   [
+    "reddit.com",
+    0.95
+   ]
+  ],
+  "referrals_top": [
+   [
+    "(unattributed Referral)",
+    66.69
+   ],
+   [
+    "airbnb.com",
+    5.94
+   ],
+   [
+    "airbnb.pt",
+    4.11
+   ],
+   [
+    "jfpropertypartners.com",
+    3.79
+   ],
+   [
+    "google.com",
+    3.06
+   ],
+   [
+    "airbnb.ae",
+    3.04
+   ]
+  ],
+  "note": "Advertiser overview: display visits 4.2K (+30.2%), 2 campaigns, 21 ads, 98 publishers; top spend countries UK, France, Portugal, Spain; Affiliates not shown by SW (0)"
+ },
+ "interhome.group": {
+  "visits_3m": "151.6K",
+  "channels": {
+   "Direct": 57.16,
+   "Organic Search": 13.61,
+   "Paid Search": 5.14,
+   "Referrals": 11.55,
+   "Display Ads": 2.56,
+   "Organic Social": 1.56,
+   "Paid Social": 0.24,
+   "Gen AI": 0.95,
+   "Email": 6.46,
+   "Affiliates": 0.78
+  },
+  "sum": 100.01,
+  "social_top": [
+   [
+    "(unattributed Social)",
+    100.0
+   ]
+  ],
+  "referrals_top": [
+   [
+    "(unattributed Referral)",
+    54.26
+   ],
+   [
+    "hometogo.it",
+    10.92
+   ],
+   [
+    "interhome.fr",
+    6.09
+   ],
+   [
+    "interhome.it",
+    5.68
+   ],
+   [
+    "interhome.ch",
+    5.09
+   ],
+   [
+    "atraveo.com",
+    3.35
+   ]
+  ],
+  "note": "Advertiser overview: display visits <1K (-100%), campaigns/ads/publishers not shown"
+ },
+ "immogestio.com": {
+  "visits_3m": "1.4K",
+  "channels": {
+   "Direct": 29.35,
+   "Organic Search": 37.2,
+   "Paid Search": 4.63,
+   "Referrals": 7.64,
+   "Display Ads": 6.81,
+   "Organic Social": 3.64,
+   "Paid Social": 1.04,
+   "Gen AI": 2.44,
+   "Email": 6.08,
+   "Affiliates": 1.16
+  },
+  "sum": 99.99,
+  "social_top": [],
+  "referrals_top": [],
+  "note": "Social: no network breakdown (no data); Referrals: only unattributed 'Referral' bucket 100%, no named domains; Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ },
+ "costagirona.com": {
+  "visits_3m": "6.1K",
+  "channels": {
+   "Direct": 23.33,
+   "Organic Search": 39.09,
+   "Paid Search": 8.86,
+   "Referrals": 8.32,
+   "Display Ads": 7.12,
+   "Organic Social": 2.64,
+   "Paid Social": 0.87,
+   "Gen AI": 1.96,
+   "Email": 3.73,
+   "Affiliates": 4.08
+  },
+  "sum": 100.0,
+  "social_top": [],
+  "referrals_top": [],
+  "note": "Social: no network breakdown (no data); Referrals: only unattributed 'Referral' bucket 100%, no named domains; Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ },
+ "agi-properties.com": {
+  "visits_3m": "739",
+  "channels": {
+   "Direct": 29.33,
+   "Organic Search": 37.32,
+   "Paid Search": 4.79,
+   "Referrals": 7.53,
+   "Display Ads": 6.39,
+   "Organic Social": 3.85,
+   "Paid Social": 1.28,
+   "Gen AI": 2.56,
+   "Email": 6.02,
+   "Affiliates": 0.93
+  },
+  "sum": 100.0,
+  "social_top": [],
+  "referrals_top": [],
+  "note": "Social: no network breakdown (no data); Referrals: only unattributed 'Referral' bucket 100%, no named domains; Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ },
+ "welcs.com": {
+  "visits_3m": "433",
+  "channels": {
+   "Direct": 22.79,
+   "Organic Search": 39.81,
+   "Paid Search": 9.82,
+   "Referrals": 8.83,
+   "Display Ads": 5.46,
+   "Organic Social": 2.59,
+   "Paid Social": 0.75,
+   "Gen AI": 1.93,
+   "Email": 4.13,
+   "Affiliates": 3.9
+  },
+  "sum": 100.01,
+  "social_top": [],
+  "referrals_top": [],
+  "note": "Social: no network breakdown (no data); Referrals: only unattributed 'Referral' bucket 100%, no named domains; Display: Advertiser overview has no data (no campaigns/ads/publishers)"
+ }
+}
